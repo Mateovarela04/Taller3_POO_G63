@@ -1,0 +1,1 @@
+En este proyecto se solucionara el taller #3 de la clase de programación orientada a objetos.
